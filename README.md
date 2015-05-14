@@ -1,0 +1,3 @@
+# EF.BulkInsert Work in progress... 
+
+Bulk insert performance comparisons and Bulk insert extention for Entity Framework 6+
