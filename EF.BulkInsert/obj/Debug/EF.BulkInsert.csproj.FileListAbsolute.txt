@@ -1,0 +1,1 @@
+E:\Projects\Lab\EF.BulkInsert\EF.BulkInsert\obj\Debug\EF.BulkInsert.csprojResolveAssemblyReference.cache
